@@ -12,7 +12,7 @@ Basic useful feature list:
 add below line into your build.gradle file.
 ```java
     dependencies {
-        compile 'com.github.mshohrat:MsCameraView:1.1.1'
+        compile 'com.github.mshohrat:SpeedoMeter:1.0.0'
     }
 ```
 
