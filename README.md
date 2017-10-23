@@ -1,12 +1,8 @@
 # SpeedoMeter
 <p align"center">
-<img src="demo.mp4" width="280" height="450">
+<img src="demo.gif" width="280" height="450">
 &nbsp;
-<img src="demo1.mp4" width="280" height="450">
-<br/>
-<img src="demo2.png" width="280" height="450">
-&nbsp;
-<img src="demo3.png" width="280" height="450"
+<img src="demo1.gif" width="280" height="450">
 <p/>
 
 Basic useful feature list:
