@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Speedometer">
+        <attr name="maxSpeed" format="float"></attr>
+        <attr name="currentSpeed" format="float"></attr>
+        <attr name="lowOnColor" format="color"></attr>
+        <attr name="mediumOnColor" format="color"></attr>
+        <attr name="highOnColor" format="color"></attr>
+        <attr name="speedTextSize" format="dimension"></attr>
+        <attr name="unitTextSize" format="dimension"></attr>
+        <attr name="offColor" format="color"></attr>
+        <attr name="scaleColor" format="color"></attr>
+        <attr name="scaleTextSize" format="dimension"></attr>
+        <attr name="backgroundColor" format="color"></attr>
+        <attr name="startDegree" format="integer"></attr>
+        <attr name="endDegree" format="integer"></attr>
+        <attr name="speedTextColor" format="color"></attr>
+        <attr name="unitTextColor" format="color"></attr>
+        <attr name="showScale" format="boolean"></attr>
+        <attr name="animDuration" format="integer"></attr>
+        <attr name="speedLimit" format="float"></attr>
+        <attr name="speedLimitBackground" format="color"></attr>
+        <attr name="speedLimitColor" format="color"></attr>
+        <attr name="sppedLimitTextColor" format="color"></attr>
+    </declare-styleable>
+
+
+
+</resources>
+
